@@ -16,5 +16,5 @@
 * [Run Django Project Locally (abridged)](notes/run_django_project_locally_abridged.md)
   
 * [Change the remote repository to our own repository](notes/change_remote_repository.md)
-
+* [Change the Django project directory name](notes/change_django_project_directory_name.md)
 

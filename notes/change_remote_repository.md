@@ -92,5 +92,8 @@
 
 1. We now have the cloned repository connected to our own repository.
 
+1. Proceed to change django project directory name:
+    * [Change Django Project Directory Name](change_django_project_directory_name.md)
+
 ## Links
 * [README.md](../README.md)
