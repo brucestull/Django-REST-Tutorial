@@ -92,3 +92,10 @@
         * `python manage.py runserver`
     1. Open browser to server address:
         * http://localhost:8000/
+
+1. It may be necessary to run the activation script each time a new terminal is opened in order to have access to the features of the virtual environment.
+    * LINK-TO-SET-UP-VSCODE-WORKSPACE-VIRTUAL-ENVIRONMENT
+
+## Links
+* [Run Django Project Locally (abridged)](run_django_project_locally_abridged.md)
+* [README.md](../README.md)
