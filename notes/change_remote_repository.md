@@ -10,7 +10,7 @@
         * `https://github.com/brucestull/new-user-repo`
 
 1. Open terminal in local repository:
-    * Sample repository directory:
+    * Sample local repository directory:
         * `C:\Users\Bruce\Programming\DjangoStarter`
 
 1. Investigate current remote repository settings:
