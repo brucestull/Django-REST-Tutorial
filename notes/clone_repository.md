@@ -50,7 +50,7 @@
     * [Run Django Project Locally (abridged)](run_django_project_locally_abridged.md)
 
 1. Proceed to change remote repository settings.
-    * LINK-TO-CHANGE-REMOTE-REPOSITORY
+    * [Change Remote Repository](change_remote_repository.md)
 
 ## Links
 * [README.md](../README.md)
