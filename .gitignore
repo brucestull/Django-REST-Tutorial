@@ -1,5 +1,7 @@
 secrets.*
 
+users/migrations/0*.py
+
 local_things*
 .vscode
 *.code-workspace
