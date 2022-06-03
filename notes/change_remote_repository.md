@@ -38,7 +38,7 @@
         PS C:\Users\Bruce\Programming\DjangoStarter>
         ```
 
-1. Add connection of our local repository to the remote repository we created above (we are using the standard 'origin' name for remote repository):
+1. Add connection of our local repository to the remote repository (https://github.com/brucestull/new-user-repo) we created above. We are using the standard 'origin' name for remote repository:
     ```
     git remote add origin https://github.com/brucestull/new-user-repo
     ```
@@ -86,5 +86,11 @@
         branch 'main' set up to track 'origin/main'.
         ```
 
+1. Verify that our remote repository reflects the new code:
+    * Sample remote repository link:
+        * https://github.com/brucestull/new-user-repo
+
 1. We now have the cloned repository connected to our own repository.
 
+## Links
+* [README.md](../README.md)
