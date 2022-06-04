@@ -8,11 +8,11 @@
         ```
     * Sample location output:
         ```
-        PS C:\Users\Bruce\Programming\test-directory> Get-Location
+        PS C:\Users\Bruce\Programming> Get-Location
 
         Path
         ----
-        C:\Users\Bruce\Programming\test-directory
+        C:\Users\Bruce\Programming
         ```
 
 1. Note the Django project directory name:
