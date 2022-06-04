@@ -92,8 +92,9 @@
 
 1. We now have the cloned repository connected to our own repository.
 
-1. Proceed to change django project directory name:
-    * [Change Django Project Directory Name](change_django_project_directory_name.md)
+1. The project can now be run locally. Proceed to run project locally:
+    * [Run Django Project Locally](run_django_project_locally.md)
+    * [Run Django Project Locally (abridged)](run_django_project_locally_abridged.md)
 
 ## Links
 * [README.md](../README.md)

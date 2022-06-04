@@ -80,9 +80,12 @@
     
     1. Maybe click the "Django Admin" link to check functionality.
 
+1. Git `add`, `commit`, and `push`.
+
 1. User should now have a functioning Django project, ready for addition of specific project application needs.
 
-1. Continue on and add your own functionality.
+1. Let's deploy current version to Heroku first:
+    * LINK-TO-HEROKU-DEPLOYMENT-GUIDE
 
 ## Links
 * [README.md](../README.md)
