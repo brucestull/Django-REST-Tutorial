@@ -45,5 +45,7 @@
         -a---          2022-06-03    10:34            643 README.md
         ```
 
+1. Proceed to [Change Remote Repository](change_remote_repository.md).
+
 ## Links
 * [README.md](../README.md)
