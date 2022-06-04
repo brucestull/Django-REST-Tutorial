@@ -8,7 +8,7 @@
     ```
     * Sample output:
         ```
-        PS C:\Users\Bruce\Programming\DjangoHeroku-template> python --version
+        PS C:\Users\Bruce\Programming\DjangoStarter> python --version
         Python 3.10.4
         ```
 
@@ -18,7 +18,7 @@
     ```
     * Sample output:
         ```
-        PS C:\Users\Bruce\Programming\DjangoHeroku-template> pipenv --version
+        PS C:\Users\Bruce\Programming\DjangoStarter> pipenv --version
         pipenv, version 2022.1.8
         ```
 
@@ -43,9 +43,9 @@
     ```
     * Sample current directory contents:
         ```
-        (DjangoHeroku-template) PS C:\Users\Bruce\Programming\DjangoHeroku-template> Get-ChildItem
+        (DjangoStarter) PS C:\Users\Bruce\Programming\DjangoStarter> Get-ChildItem
 
-            Directory: C:\Users\Bruce\Programming\DjangoHeroku-template
+            Directory: C:\Users\Bruce\Programming\DjangoStarter
 
         Mode                 LastWriteTime         Length Name
         ----                 -------------         ------ ----
@@ -69,9 +69,9 @@
     ```
     * Sample output:
         ```
-        PS C:\Users\Bruce\Programming\DjangoHeroku-template> pipenv install
+        PS C:\Users\Bruce\Programming\DjangoStarter> pipenv install
         Creating a virtualenv for this project...
-        Pipfile: C:\Users\Bruce\Programming\DjangoHeroku-template\Pipfile
+        Pipfile: C:\Users\Bruce\Programming\DjangoStarter\Pipfile
         Using C:/Users/Bruce/AppData/Local/Programs/Python/Python310/python.exe (3.10.4) to create virtualenv...
         [=   ] Creating virtual environment...created virtual environment CPython3.10.4.final.0-64 in 2817ms
         creator CPython3Windows(dest=C:\Users\Bruce\.virtualenvs\DjangoStarter-WkL7vbpe, clear=False, no_vcs_ignore=False, global=False)
