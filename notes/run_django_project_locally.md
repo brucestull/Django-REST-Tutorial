@@ -74,13 +74,13 @@
         Pipfile: C:\Users\Bruce\Programming\DjangoHeroku-template\Pipfile
         Using C:/Users/Bruce/AppData/Local/Programs/Python/Python310/python.exe (3.10.4) to create virtualenv...
         [=   ] Creating virtual environment...created virtual environment CPython3.10.4.final.0-64 in 2817ms
-        creator CPython3Windows(dest=C:\Users\Bruce\.virtualenvs\DjangoHeroku-template-f3XMwv9X, clear=False, no_vcs_ignore=False, global=False)
+        creator CPython3Windows(dest=C:\Users\Bruce\.virtualenvs\DjangoStarter-WkL7vbpe, clear=False, no_vcs_ignore=False, global=False)
         seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=C:\Users\Bruce\AppData\Local\pypa\virtualenv)
             added seed packages: pip==22.0.4, setuptools==62.1.0, wheel==0.37.1
         activators BashActivator,BatchActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
 
         Successfully created virtual environment!
-        Virtualenv location: C:\Users\Bruce\.virtualenvs\DjangoHeroku-template-f3XMwv9X
+        Virtualenv location: C:\Users\Bruce\.virtualenvs\DjangoStarter-WkL7vbpe
         Installing dependencies from Pipfile.lock (5c8b0c)...
         ================================ 11/11 - 00:00:09
         To activate this project's virtualenv, run pipenv shell.
@@ -89,11 +89,11 @@
 
 1. Note directory path on line with `Virtualenv location: `. This shows the virtual environment location:
     * Sample output:
-        * `C:\Users\Bruce\.virtualenvs\DjangoHeroku-template-f3XMwv9X`
+        * `C:\Users\Bruce\.virtualenvs\DjangoStarter-WkL7vbpe`
 
 1. That location will determine the locations of activation scripts for various terminal programs. I'm using PowerShell (which is the `activate` script with `ps1` extension):
     * Sample location:
-        * `C:\Users\Bruce\.virtualenvs\DjangoHeroku-template-f3XMwv9X\Scripts\activate.ps1`
+        * `C:\Users\Bruce\.virtualenvs\DjangoStarter-WkL7vbpe\Scripts\activate.ps1`
 
 1. Activate virtual environment:
     ```

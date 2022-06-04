@@ -23,11 +23,11 @@
 
 1. Note directory path, in output above, on line with `Virtualenv location: `. This shows the virtual environment location:
     * Sample output:
-        * `Virtualenv location: C:\Users\Bruce\.virtualenvs\DjangoHeroku-template-f3XMwv9X`
+        * `Virtualenv location: C:\Users\Bruce\.virtualenvs\DjangoStarter-WkL7vbpe`
 
 1. That virtual environment location will determine the locations of activation scripts for various terminal programs. I'm using PowerShell (which uses the `activate` script with `ps1` extension):
     * Sample virtual environment activation script location:
-        * `C:\Users\Bruce\.virtualenvs\DjangoHeroku-template-f3XMwv9X\Scripts\activate.ps1`
+        * `C:\Users\Bruce\.virtualenvs\DjangoStarter-WkL7vbpe\Scripts\activate.ps1`
 
 1. Activate virtual environment:
     ```
