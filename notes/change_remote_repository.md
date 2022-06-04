@@ -60,7 +60,7 @@
     ```
     * Sample output (push didn't happen since we need to set the remote as upstream):
         ```
-        PS C:\Users\Bruce\Programming\test-directory\DjangoStarter> git push
+        PS C:\Users\Bruce\Programming\DjangoStarter> git push
         fatal: The current branch main has no upstream branch.
         To push the current branch and set the remote as upstream, use
 
