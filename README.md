@@ -10,6 +10,13 @@
 * Linux-type to PowerShell commands:
     * [PowerShell Aliases](notes/powershell_aliases.md)
 
+## Assumptions:
+* User has functioning `python` installation.
+* User has functioning `git` installation.
+* User has access to some terminal (The guides use PowerShell).
+* User is able to find the appropriate terminal commands for the actions in their preferred terminal.
+    * See [PowerShell Aliases](notes/powershell_aliases.md) for typical mappings of PowerShell to common commands.
+
 ## Guides:
 * NOTE: I am using PowerShell for terminal operations. Use your terminal's commands as necessary when using a different terminal application.
   
