@@ -39,3 +39,6 @@
     -----------     ----                                               -------    ------
     Alias           pwd -> Get-Location
     ```
+
+## Links:
+* [README.md](../README.md)
