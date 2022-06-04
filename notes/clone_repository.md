@@ -45,12 +45,9 @@
         -a---          2022-06-03    10:34            643 README.md
         ```
 
-1. The project can now be run locally:
+1. The project can now be run locally. Proceed to run project locally:
     * [Run Django Project Locally](run_django_project_locally.md)
     * [Run Django Project Locally (abridged)](run_django_project_locally_abridged.md)
-
-1. Proceed to change remote repository settings.
-    * [Change Remote Repository](change_remote_repository.md)
 
 ## Links
 * [README.md](../README.md)
