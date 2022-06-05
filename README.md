@@ -14,7 +14,7 @@
 * User has functioning `python` installation.
 * User has functioning `git` installation.
 * User has functioning `pipenv` installation.
-    * See LINK-TO-INSTALL-PIPENV for guide to installing `pipenv`.
+    * See [Install `pipenv`](https://github.com/brucestull/pipenv-example-basic/blob/main/notes/install_pipenv.md) for guide to installing `pipenv`.
 * User has access to some terminal (The guides use PowerShell).
 * User is able to find the appropriate terminal commands for the actions in their preferred terminal.
     * See [PowerShell Aliases](notes/powershell_aliases.md) for typical mappings of PowerShell to common commands.
