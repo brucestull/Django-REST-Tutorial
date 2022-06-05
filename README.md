@@ -5,7 +5,7 @@
     * https://github.com/brucestull/DjangoStarter
 * Project management board:
     * https://github.com/brucestull/DjangoStarter/projects/1
-* Original Django Custom User Starter repository:
+* This project is an attempt at a more clear documentaion of the original Django Custom User Starter repository:
     * https://github.com/brucestull/DjangoCustomUserStarter
 * Linux-type to PowerShell commands:
     * [PowerShell Aliases](notes/powershell_aliases.md)
