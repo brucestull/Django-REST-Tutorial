@@ -1,27 +1,27 @@
-# Django Starter
+# Django REST Tutorial
 
 ## Resources:
-* This project is an attempt at a more clear documentaion of the original Django Custom User Starter repository:
-    * https://github.com/brucestull/DjangoCustomUserStarter
+* Tutorial being followed:
+    * [Django REST Framework](https://www.django-rest-framework.org/tutorial/quickstart/)
 * Project repository:
-    * https://github.com/brucestull/DjangoStarter
+    * https://github.com/brucestull/Django-REST-Tutorial
 * Project management board:
-    * https://github.com/brucestull/DjangoStarter/projects/1
-* Linux-type to PowerShell commands:
+    * https://github.com/brucestull/Django-REST-Tutorial/projects/1
+* Some terminal commands as PowerShell aliases:
     * [PowerShell Aliases](notes/powershell_aliases.md)
 
-## Assumptions:
-* User has functioning `python` installation.
-* User has functioning `git` installation.
-* User has functioning `pipenv` installation.
-    * See [Install `pipenv`](https://github.com/brucestull/pipenv-example-basic/blob/main/notes/install_pipenv.md) for guide to installing `pipenv`.
-* User has access to some terminal (The guides use PowerShell).
-* User is able to find the appropriate terminal commands for the actions in their preferred terminal.
-    * See [PowerShell Aliases](notes/powershell_aliases.md) for typical mappings of PowerShell to common commands.
-
-## Guides:
-* NOTE: I am using PowerShell for terminal operations. Use your terminal's commands as necessary when using a different terminal application.
+## Notes:
+* The author is using PowerShell for terminal operations. Use appropriate terminal commands as necessary when using a different terminal application.
+* When perfoming Django database migrations, it is important to do `makemigrations` and `migrate` for `users` app and then do for the rest of the app. This flow is take care of in Production by the `Procfile`.
+* This guide is starting off with this author's Django Starter:
+    * https://github.com/brucestull/DjangoStarter
+    * The Django Starter includes the following:
+        * Premade Django Project (my_current_project).
+        * A premade CustomeUser model, with signup/login/logout, in a (users) app.
+        * Django settings config files have been spread across development and production files, all in a `settings` directory (common.py, development.py, production.py).
+        * Project is ready to deploy to Heroku with Heroku-specific imports and usage in settings config, and included `Procfile`.
   
+## Guides:
 1. [Clone DjangoStarter](notes/clone_repository.md)
 1. [Change the remote repository to our own repository](notes/change_remote_repository.md)
 1. Run Django Project Locally
