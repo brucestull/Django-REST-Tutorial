@@ -3,6 +3,8 @@
 ## Resources:
 * Tutorial being followed:
     * [Django REST Framework](https://www.django-rest-framework.org/tutorial/quickstart/)
+* Production deployment:
+    * 
 * Project repository:
     * https://github.com/brucestull/Django-REST-Tutorial
 * Project management board:
